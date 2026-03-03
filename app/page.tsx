@@ -43,7 +43,7 @@ export default function Home() {
           <div className="space-y-6 z-10">
             <div className="space-y-3">
               <h1 className="text-5xl md:text-6xl font-bold leading-tight">
-                Advogado iniciante:
+                Advogado(a) Iniciante:
                 <span className="gradient-text"> Pare de correr atrás de clientes ruins.</span>
               </h1>
               <p className="text-xl text-[color:var(--muted-foreground)] leading-relaxed">
