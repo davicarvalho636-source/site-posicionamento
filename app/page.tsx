@@ -95,7 +95,7 @@ export default function Home() {
         <div className="container-custom">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
-              Qual é a dor do advogado iniciante?
+              Qual é a dor do advogado(a) iniciante?
             </h2>
             <p className="text-xl text-[color:var(--muted-foreground)] max-w-2xl mx-auto">
               Você não está sozinho. Esses são os desafios que enfrentam 9 em cada 10 advogados que abrem seu primeiro escritório.
